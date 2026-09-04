@@ -1,4 +1,4 @@
-# SIP-BTX-Modem
+# SIP-BTX-Modem L2
 
 Linux-Programm, das als V.23-Modem-Gegenstelle (Host/Zentrale) zu einem
 DBT03-BTX-Terminal fungiert: Es nimmt den Anruf des DBT03 über SIP/Asterisk
