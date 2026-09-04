@@ -1,5 +1,7 @@
 # SIP-BTX-Modem L2
 
+## Die KI hat dieses Programm fertiggestellt. Bei mir hat es in ersten Tests funktioniert.
+
 Linux-Programm, das als V.23-Modem-Gegenstelle (Host/Zentrale) zu einem
 DBT03-BTX-Terminal fungiert: Es nimmt den Anruf des DBT03 über SIP/Asterisk
 entgegen, moduliert/demoduliert V.23 (1200/75 bit/s, CEPT/BTX-Standard) und
